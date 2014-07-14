@@ -1,12 +1,12 @@
 == README
 
 Приложение, реализующее REST HTTP API в соответствии с документацией: 
-http://docs.notesapitest.apiary.io/
+http://docs.notesapitest.apiary.io
 
-Демо: http://notes-api.herokuapp.com/
+Демо: http://notes-api.herokuapp.com
 
 Присутствуют тесты
-  tests/
+  test/
        /controllers/notes_controller_test.rb
        /models/notes_test.rb
      
